@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Name - Manjot Singh, Student id - c0730244
+ * Name - Parminder singh, Student id - C0732160*/
+
 namespace C0730244_Assignment3
 {
     public delegate void Sort_DataStructure();
