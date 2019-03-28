@@ -17,7 +17,6 @@ namespace C0730244_Assignment3
             dq.Run();
             DataStructureQueue ds = new DataStructureQueue();
             ds.Run();
-
         }
     }
 
